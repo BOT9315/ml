@@ -1,3 +1,3 @@
-x = 10
-x = x + 2
-print(x)
+y = 10
+y = y + 2
+print(y)
